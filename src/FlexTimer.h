@@ -35,7 +35,7 @@
 #define DEFAULT_TIMER_INTERVAL 250UL
 #endif
 
-#include <Arduino.h>
+#include <arduino.h>
 #include <limits.h>
 
 long fixed_map( long, long, long, long, long);
